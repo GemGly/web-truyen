@@ -1,0 +1,49 @@
+.navbar-default .navbar-brand{
+	color: #e8603c;
+	font-size: 20px;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+	color: #e8603c;
+}
+.navbar-default{
+	border: none;
+	background: none;
+	background-color: #F1F414;
+}
+.dropdown-toggle{
+	color: #e8603c;
+	font-style: 30px; 
+}
+#truyendecu{
+	color: #3CE90D;
+	font-size: 20px;
+}
+.chavon{
+	background-color: #EF7B5C;
+
+}
+.pull-right {
+    float: right!important;
+    padding: 12px;
+    }
+
+#truyen{
+	color: #F52F2F;
+	border: none;
+	background: none;
+}
+.appear{
+	background-color: #BFF08A;
+	height: 300px;
+    padding: 15px;
+}
+.imges{
+	border: none;
+}
+.box-img{
+	height: 25%;
+}
+.carousel-caption a{
+	color: red;
+	font-weight: bold;
+}
